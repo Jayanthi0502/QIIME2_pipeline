@@ -17,7 +17,17 @@
 - Click on "Install QIIME 2 within a conda environment" under "Natively installing QIIME 2" section.
 - We will download the QIIME2-amplicon distribution. Choose the option "Windows (via WSL)"
 - Copy the command into Ubuntu. This will create an environment called "qiime2-amplicon-2024.10"
+
+## Git cloning ENAbrowsertools
+- ENA provides a file of FTP links you can download with wget, but it kept failing and not all files were downloaded, so I used ENA BrowserTools instead.
+- Git clone the ENAbrowsertools, I did it in my working directory.
+``` bash
+git clone https://github.com/enasequence/enaBrowserTools.git
+```
+
 ## Downloading the data 
+- 
+## Downloading raw data using ENAbrowsertools
 ## Preprocessing 
 ## Running QIIME2 
 ### Visualization of results 
