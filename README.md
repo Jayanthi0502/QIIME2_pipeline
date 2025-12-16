@@ -4,7 +4,7 @@
   <https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP233274>  
 - The samples were downloaded using ENA Browser Tools on Linux.  
 
-# System Requirements
+## System Requirements
 - **Operating system**: Ubuntu (WSL2 on Windows)
 - QIIME2 installed through Anaconda (conda environment)
 - **32 GB RAM** for faster PICRUSt2 performance  
@@ -25,8 +25,9 @@
 git clone https://github.com/enasequence/enaBrowserTools.git
 ```
 
-## Downloading the data 
-- 
+## Downloading data and verifying it's download
+- Move into the cloned folder.
+- Check 
 ## Downloading raw data using ENAbrowsertools
 ## Preprocessing 
 ## Running QIIME2 
