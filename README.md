@@ -27,8 +27,9 @@ git clone https://github.com/enasequence/enaBrowserTools.git
 
 ## Downloading data and verifying it's download
 - Move into the cloned folder.
-- Check 
-## Downloading raw data using ENAbrowsertools
+- You can find the download script along with verification here:  
+[scripts/download_data.sh](scripts/download_data.sh)
+- Check for the differences in file size manually too. If any file was downloaded incompletly, redownload it.
 ## Preprocessing 
 ## Running QIIME2 
 ### Visualization of results 
