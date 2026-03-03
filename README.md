@@ -28,7 +28,7 @@ git clone https://github.com/enasequence/enaBrowserTools.git
 ## Downloading data and verifying it's download
 - Move into the cloned folder.
 - You can find the download script along with verification here:  
-[scripts/download_data.sh](scripts/download_data.sh)
+[scripts/download_data.sh](scripts/download_and_check.sh)
 - Before downloading the fastq files, make sure to change directories -- prefereably to a folder which would only contain the raw data.
 - Check for the differences in file size manually too. If any file was downloaded incompletly, redownload it.
 ## Preprocessing 
