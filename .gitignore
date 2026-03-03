@@ -1,0 +1,7 @@
+raw_data/
+fastqc_results_before/
+fastqc_results_after/
+fastp_out/
+*.fastq.gz
+*.html
+*.json
